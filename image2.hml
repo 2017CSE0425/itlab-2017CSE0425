@@ -1,0 +1,8 @@
+<html>
+<body>
+<body style="background-image:url('img.jpg');
+background-repeat:no-repeat;
+background-position:5px 100px;">
+<h2> Background image</h2>
+</body>
+</html>
